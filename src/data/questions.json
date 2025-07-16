@@ -1,0 +1,277 @@
+{
+  "love": [
+    {
+      "id": "love_1",
+      "question": "Hey {name}! Social media mein couple posts dekhte time...",
+      "englishHint": "When you see couple posts on social media...",
+      "options": [
+        { "id": "a", "text": "Aww so cute! 😍 (Single but happy)", "points": 3 },
+        { "id": "b", "text": "Ugh, show off kar rahe hain 🙄", "points": 1 },
+        { "id": "c", "text": "Kab mera number aayega? 🥺", "points": 2 },
+        { "id": "d", "text": "Good for them, next post! 👍", "points": 4 }
+      ]
+    },
+    {
+      "id": "love_2",
+      "question": "Family introduction ke time, {name} you...",
+      "englishHint": "When it comes to family introductions...",
+      "options": [
+        { "id": "a", "text": "Wait for 2 years minimum, dar lagta hai 😅", "points": 2 },
+        { "id": "b", "text": "Introduce as 'just friend' forever 🤐", "points": 1 },
+        { "id": "c", "text": "Proudly introduce when ready ✨", "points": 4 },
+        { "id": "d", "text": "Let them figure out, main kya karu 🤷", "points": 3 }
+      ]
+    },
+    {
+      "id": "love_3",
+      "question": "Valentine's Day ke liye, {name}, tumhara approach:",
+      "englishHint": "For Valentine's Day, your approach:",
+      "options": [
+        { "id": "a", "text": "Plan something special for weeks 💝", "points": 4 },
+        { "id": "b", "text": "Netflix and chill is enough 📺", "points": 2 },
+        { "id": "c", "text": "Surprise them last minute 🎁", "points": 3 },
+        { "id": "d", "text": "Valentine's Day? Overrated! 😒", "points": 1 }
+      ]
+    },
+    {
+      "id": "love_4",
+      "question": "Agar {targetPronoun} busy hai aur reply nahi kar raha...",
+      "englishHint": "If {targetPronoun} is busy and not replying...",
+      "options": [
+        { "id": "a", "text": "Double, triple text karta hu 📱📱📱", "points": 1 },
+        { "id": "b", "text": "Wait patiently, {targetPronoun} will reply ⏰", "points": 4 },
+        { "id": "c", "text": "One gentle follow-up after few hours 💬", "points": 3 },
+        { "id": "d", "text": "Start making backup plans 😤", "points": 2 }
+      ]
+    },
+    {
+      "id": "love_5",
+      "question": "First date planning mein, {name}, you prefer:",
+      "englishHint": "For first date planning, you prefer:",
+      "options": [
+        { "id": "a", "text": "Coffee shop - simple and safe ☕", "points": 3 },
+        { "id": "b", "text": "Fancy restaurant - impress karna hai 🍽️", "points": 2 },
+        { "id": "c", "text": "Activity date - bowling, mini golf 🎳", "points": 4 },
+        { "id": "d", "text": "Let them decide, main flexible hu 🤷", "points": 1 }
+      ]
+    },
+    {
+      "id": "love_6",
+      "question": "Jab {targetPronoun} ke friends tumse milte hain...",
+      "englishHint": "When {targetPronoun} friends meet you...",
+      "options": [
+        { "id": "a", "text": "Try to impress everyone 💪", "points": 2 },
+        { "id": "b", "text": "Be myself, authentic raho ✨", "points": 4 },
+        { "id": "c", "text": "Nervous ho jata hu, awkward feel 😅", "points": 1 },
+        { "id": "d", "text": "Confident but respectful approach 😊", "points": 3 }
+      ]
+    }
+  ],
+  
+  "friendship": [
+    {
+      "id": "friend_1",
+      "question": "Jab tumhara best friend 3am mein call karta hai, {name}...",
+      "englishHint": "When your best friend calls at 3am...",
+      "options": [
+        { "id": "a", "text": "Phone utha leta hu, emergency hogi 📞", "points": 4 },
+        { "id": "b", "text": "Silent mode mein hai, morning mein dekhunga 😴", "points": 1 },
+        { "id": "c", "text": "Message bhej deta hu 'Sab theek?' 💬", "points": 3 },
+        { "id": "d", "text": "Depends on mood and day 🤔", "points": 2 }
+      ]
+    },
+    {
+      "id": "friend_2",
+      "question": "Group mein plans banate time, {name}, tu kaisa hai:",
+      "englishHint": "When making group plans, you are:",
+      "options": [
+        { "id": "a", "text": "Main organizer, sab plan karta hu 📋", "points": 4 },
+        { "id": "b", "text": "Just go with the flow, jo decide ho 🌊", "points": 2 },
+        { "id": "c", "text": "Suggest ideas but let others decide 💡", "points": 3 },
+        { "id": "d", "text": "Usually make excuse, ghar pe rehna hai 🏠", "points": 1 }
+      ]
+    },
+    {
+      "id": "friend_3",
+      "question": "Agar friend ka breakup hua hai, {name} tu:",
+      "englishHint": "If your friend had a breakup, you:",
+      "options": [
+        { "id": "a", "text": "Ice cream leke immediately pahunch jata hu 🍦", "points": 4 },
+        { "id": "b", "text": "Message kar deta hu 'call kar if needed' 📱", "points": 3 },
+        { "id": "c", "text": "Give them space for few days 🤐", "points": 2 },
+        { "id": "d", "text": "Awkward lagta hai, avoid karta hu 😬", "points": 1 }
+      ]
+    },
+    {
+      "id": "friend_4",
+      "question": "Friend ka birthday bhool gaye, {name}, ab kya karna hai:",
+      "englishHint": "Forgot friend's birthday, now what:",
+      "options": [
+        { "id": "a", "text": "Midnight surprise plan, recover karna hai 🎂", "points": 4 },
+        { "id": "b", "text": "Belated wish with genuine apology 🙏", "points": 3 },
+        { "id": "c", "text": "Casual wish, act like nothing happened 😅", "points": 2 },
+        { "id": "d", "text": "Hope they forgot I forgot 🤞", "points": 1 }
+      ]
+    },
+    {
+      "id": "friend_5",
+      "question": "Group chat mein gossip chal rahi hai, {name}:",
+      "englishHint": "Gossip happening in group chat, you:",
+      "options": [
+        { "id": "a", "text": "Actively participate, spicy details share 🌶️", "points": 2 },
+        { "id": "b", "text": "Read but don't comment much 👀", "points": 3 },
+        { "id": "c", "text": "Try to change topic diplomatically 🕊️", "points": 4 },
+        { "id": "d", "text": "Leave chat temporarily, drama nahi chahiye 🚪", "points": 1 }
+      ]
+    },
+    {
+      "id": "friend_6",
+      "question": "Friend ne tumse paisa udhar manga, {name}, tu:",
+      "englishHint": "Friend asked to borrow money, you:",
+      "options": [
+        { "id": "a", "text": "Immediately de deta hu, no questions 💸", "points": 4 },
+        { "id": "b", "text": "Puchta hu kya kaam hai, then decide 🤔", "points": 3 },
+        { "id": "c", "text": "Amount dekh ke decide karta hu 💰", "points": 2 },
+        { "id": "d", "text": "Excuse banata hu, paisa nahi deta 🙅", "points": 1 }
+      ]
+    }
+  ],
+
+  "career": [
+    {
+      "id": "career_1",
+      "question": "Office mein new project assign hua, {name}, tumhara first reaction:",
+      "englishHint": "New project assigned at office, your first reaction:",
+      "options": [
+        { "id": "a", "text": "Excel sheet banake planning start! 📊", "points": 4 },
+        { "id": "b", "text": "Google karta hu kaise karna hai 🔍", "points": 3 },
+        { "id": "c", "text": "Team se puchta hu who's done this before 👥", "points": 2 },
+        { "id": "d", "text": "Deadline dekh ke panic attack 😰", "points": 1 }
+      ]
+    },
+    {
+      "id": "career_2",
+      "question": "Meeting mein idea present karna hai, {name}:",
+      "englishHint": "Have to present idea in meeting:",
+      "options": [
+        { "id": "a", "text": "PowerPoint banake rehearsal kar leta hu 🎤", "points": 4 },
+        { "id": "b", "text": "Main points note kar leta hu 📝", "points": 3 },
+        { "id": "c", "text": "Improvise kar lunga, confident hu 💪", "points": 2 },
+        { "id": "d", "text": "Pray karta hu ki koi aur present kare 🙏", "points": 1 }
+      ]
+    },
+    {
+      "id": "career_3",
+      "question": "Boss ne feedback diya for improvement, {name}:",
+      "englishHint": "Boss gave feedback for improvement:",
+      "options": [
+        { "id": "a", "text": "Thank you, action plan ready karta hu 📋", "points": 4 },
+        { "id": "b", "text": "Listen carefully, notes leta hu ✍️", "points": 3 },
+        { "id": "c", "text": "Nod karta hu but internally defensive 😤", "points": 2 },
+        { "id": "d", "text": "Feel attacked, mood off ho jata hai 😔", "points": 1 }
+      ]
+    },
+    {
+      "id": "career_4",
+      "question": "Promotion opportunity aayi hai, {name}, tu:",
+      "englishHint": "Promotion opportunity came, you:",
+      "options": [
+        { "id": "a", "text": "Immediately apply, confidence se 🚀", "points": 4 },
+        { "id": "b", "text": "Research kar ke then apply 📚", "points": 3 },
+        { "id": "c", "text": "Think twice, am I ready? 🤔", "points": 2 },
+        { "id": "d", "text": "Let others apply, main qualified nahi 😟", "points": 1 }
+      ]
+    },
+    {
+      "id": "career_5",
+      "question": "Work-life balance ke liye, {name}, tumhara approach:",
+      "englishHint": "For work-life balance, your approach:",
+      "options": [
+        { "id": "a", "text": "Strict boundaries, 6pm ke baad no work 🕕", "points": 4 },
+        { "id": "b", "text": "Flexible, urgent kaam complete karta hu ⚖️", "points": 3 },
+        { "id": "c", "text": "Work comes first, personal time adjust 💼", "points": 2 },
+        { "id": "d", "text": "What balance? Constantly stressed 😵", "points": 1 }
+      ]
+    },
+    {
+      "id": "career_6",
+      "question": "Colleague ne tumhara credit le liya, {name}:",
+      "englishHint": "Colleague took your credit, you:",
+      "options": [
+        { "id": "a", "text": "Professionally address karta hu boss ke saath 💼", "points": 4 },
+        { "id": "b", "text": "Document everything for future 📄", "points": 3 },
+        { "id": "c", "text": "Confront colleague directly 🗣️", "points": 2 },
+        { "id": "d", "text": "Let it go, karma will handle 😕", "points": 1 }
+      ]
+    }
+  ],
+
+  "personality": [
+    {
+      "id": "personality_1",
+      "question": "Weekend plans banate time, {name}:",
+      "englishHint": "When making weekend plans:",
+      "options": [
+        { "id": "a", "text": "Schedule banata hu Friday se 📅", "points": 4 },
+        { "id": "b", "text": "Saturday morning decide karta hu 🌅", "points": 3 },
+        { "id": "c", "text": "Jo mann kiya wahi karta hu 🎭", "points": 2 },
+        { "id": "d", "text": "Plans? Weekend = Netflix 📺", "points": 1 }
+      ]
+    },
+    {
+      "id": "personality_2",
+      "question": "Party mein jaana hai, {name}, tu typically:",
+      "englishHint": "Going to a party, you typically:",
+      "options": [
+        { "id": "a", "text": "First one to arrive, help with setup 🎉", "points": 4 },
+        { "id": "b", "text": "Arrive fashionably late 😎", "points": 3 },
+        { "id": "c", "text": "Go with someone, alone awkward lagta 👫", "points": 2 },
+        { "id": "d", "text": "Make excuse last minute, ghar pe better 🏠", "points": 1 }
+      ]
+    },
+    {
+      "id": "personality_3",
+      "question": "Stressful situation mein, {name}, tumhara reaction:",
+      "englishHint": "In stressful situations, your reaction:",
+      "options": [
+        { "id": "a", "text": "Stay calm, solution dhundhta hu 🧘", "points": 4 },
+        { "id": "b", "text": "Take deep breaths, organize thoughts 💭", "points": 3 },
+        { "id": "c", "text": "Panic initially, then handle 😰", "points": 2 },
+        { "id": "d", "text": "Completely overwhelmed, shutdown mode 😵", "points": 1 }
+      ]
+    },
+    {
+      "id": "personality_4",
+      "question": "New hobby try karna hai, {name}:",
+      "englishHint": "Want to try a new hobby:",
+      "options": [
+        { "id": "a", "text": "Research kar ke best classes join 📚", "points": 4 },
+        { "id": "b", "text": "YouTube tutorials dekh ke start 📱", "points": 3 },
+        { "id": "c", "text": "Friends ke saath try karta hu 👥", "points": 2 },
+        { "id": "d", "text": "Think about it but never actually start 💭", "points": 1 }
+      ]
+    },
+    {
+      "id": "personality_5",
+      "question": "Shopping karte time, {name}, tu:",
+      "englishHint": "While shopping, you:",
+      "options": [
+        { "id": "a", "text": "List banata hu, budget stick karta hu 📝", "points": 4 },
+        { "id": "b", "text": "Rough idea hai kya chahiye 🤔", "points": 3 },
+        { "id": "c", "text": "Window shopping becomes real shopping 🛍️", "points": 2 },
+        { "id": "d", "text": "Impulse buying champion 💸", "points": 1 }
+      ]
+    },
+    {
+      "id": "personality_6",
+      "question": "Argument ho gaya kisi ke saath, {name}:",
+      "englishHint": "Had an argument with someone:",
+      "options": [
+        { "id": "a", "text": "Cool down kar ke mature discussion 🤝", "points": 4 },
+        { "id": "b", "text": "Give some time, then resolve 🕐", "points": 3 },
+        { "id": "c", "text": "Apologize first, even if not my fault 😔", "points": 2 },
+        { "id": "d", "text": "Avoid them for weeks 🙈", "points": 1 }
+      ]
+    }
+  ]
+}

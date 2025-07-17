@@ -1,0 +1,274 @@
+{
+  "love": [
+    {
+      "id": "love_numb_1",
+      "question": "Someone says \"I miss you 😔\" but {name} just stares at the screen. What's going through your mind?",
+      "options": [
+        { "text": "Nothing. I literally feel nothing 🧊", "value": 0, "tag": "extreme-numbness" },
+        { "text": "Annoyed because I don't know what to say back 😑", "value": 1, "tag": "avoidance" },
+        { "text": "Analyzing if they really mean it or just saying it 🧐", "value": 2, "tag": "overthinking" },
+        { "text": "I should reply something nice even if I don't feel it 👍", "value": 3, "tag": "people-pleasing" }
+      ],
+      "scoreTag": "Emotional Numbness"
+    },
+    {
+      "id": "love_numb_2",
+      "question": "It's been 3 months and {name} hasn't felt 'butterflies' for their partner. Is this normal?",
+      "options": [
+        { "text": "Yes! The honeymoon phase is just marketing 🙄", "value": 0, "tag": "realistic" },
+        { "text": "Maybe they're just comfortable, that's better than drama 😌", "value": 3, "tag": "content" },
+        { "text": "No, they should feel something... anything! 😳", "value": 1, "tag": "romantic-idealist" },
+        { "text": "They should break up - no spark means no future 💔", "value": 0, "tag": "all-or-nothing" }
+      ],
+      "scoreTag": "Romantic Realism"
+    },
+    {
+      "id": "love_numb_3",
+      "question": "{name} always initiates conversations with their crush who replies with one-word answers. What's the move?",
+      "options": [
+        { "text": "Keep trying! They're just shy 🥺", "value": 1, "tag": "persistent" },
+        { "text": "Take the hint and stop messaging 👋", "value": 3, "tag": "self-respect" },
+        { "text": "Match their energy with equally boring replies 😶", "value": 2, "tag": "passive-aggressive" },
+        { "text": "Ask directly if they're interested or not ❓", "value": 4, "tag": "direct-communicator" }
+      ],
+      "scoreTag": "Self-Respect"
+    },
+    {
+      "id": "love_numb_4",
+      "question": "{name}'s partner says \"I love you\" but {name} doesn't feel ready to say it back. What should they do?",
+      "options": [
+        { "text": "Say it back anyway to avoid awkwardness 😬", "value": 0, "tag": "people-pleaser" },
+        { "text": "Say \"thank you\" and change the subject 👀", "value": 2, "tag": "avoidant" },
+        { "text": "Explain honestly that they're not there yet 🗣️", "value": 4, "tag": "authentic" },
+        { "text": "Ghost them because it's too much pressure 👻", "value": 0, "tag": "extreme-avoidant" }
+      ],
+      "scoreTag": "Emotional Authenticity"
+    },
+    {
+      "id": "love_numb_5",
+      "question": "{name} has been dating someone for 6 months but still doesn't miss them when they're apart. Is this a red flag?",
+      "options": [
+        { "text": "Yes! That's definitely not love ⛔", "value": 1, "tag": "traditional-romantic" },
+        { "text": "No, independence is healthy in relationships 💪", "value": 3, "tag": "independent" },
+        { "text": "Maybe they're just not the anxious attachment type 🧠", "value": 4, "tag": "secure" },
+        { "text": "They should feel something... otherwise what's the point? 🤷", "value": 2, "tag": "emotional-seeking" }
+      ],
+      "scoreTag": "Attachment Style"
+    },
+    {
+      "id": "love_numb_6",
+      "question": "{name} feels emotionally disconnected in relationships. What might help?",
+      "options": [
+        { "text": "Finding someone more exciting who gives them butterflies 🦋", "value": 1, "tag": "thrill-seeker" },
+        { "text": "Therapy to explore why they shut down emotionally 🧠", "value": 4, "tag": "self-aware" },
+        { "text": "Accepting that they're just not the emotional type 🤷", "value": 2, "tag": "self-accepting" },
+        { "text": "Pushing themselves to be more vulnerable even when uncomfortable 😣", "value": 3, "tag": "growth-mindset" }
+      ],
+      "scoreTag": "Emotional Growth"
+    }
+  ],
+  "friendship": [
+    {
+      "id": "friend_dry_1",
+      "question": "{name}'s friends hang out without them and post about it online. What should {name} do?",
+      "options": [
+        { "text": "Call them out in the group chat 😤", "value": 1, "tag": "confrontational" },
+        { "text": "Silently unfollow them all 👻", "value": 0, "tag": "passive" },
+        { "text": "Make new plans with different friends 🍕", "value": 3, "tag": "resilient" },
+        { "text": "Ask one close friend if there's something wrong 🤔", "value": 4, "tag": "communicative" }
+      ],
+      "scoreTag": "Inclusion Needs"
+    },
+    {
+      "id": "friend_dry_2",
+      "question": "{name} realizes they're always the one initiating conversations. What's their next move?",
+      "options": [
+        { "text": "Stop messaging and see if anyone notices 🧪", "value": 2, "tag": "testing" },
+        { "text": "Keep initiating because that's just their role 🤡", "value": 1, "tag": "people-pleaser" },
+        { "text": "Have an honest conversation about feeling one-sided 💬", "value": 4, "tag": "direct" },
+        { "text": "Slowly distance themselves and find new friends 🚶", "value": 3, "tag": "self-protective" }
+      ],
+      "scoreTag": "Reciprocity"
+    },
+    {
+      "id": "friend_dry_3",
+      "question": "{name} is too tired to socialize but feels guilty canceling plans. What's the move?",
+      "options": [
+        { "text": "Go anyway and pretend to have energy 🎭", "value": 1, "tag": "people-pleaser" },
+        { "text": "Cancel with a vague excuse about being sick 🤒", "value": 2, "tag": "conflict-avoidant" },
+        { "text": "Honestly explain they need alone time to recharge 🔋", "value": 4, "tag": "authentic" },
+        { "text": "Just don't show up and deal with it later 👻", "value": 0, "tag": "avoidant" }
+      ],
+      "scoreTag": "Social Energy"
+    },
+    {
+      "id": "friend_dry_4",
+      "question": "{name}'s friend only messages when they need something. How should {name} handle it?",
+      "options": [
+        { "text": "Always help them because that's what friends do 🤗", "value": 1, "tag": "doormat" },
+        { "text": "Ignore their messages or take forever to reply 🐢", "value": 2, "tag": "passive-aggressive" },
+        { "text": "Set boundaries and call out the pattern 🛑", "value": 4, "tag": "assertive" },
+        { "text": "Keep score and only help when they've helped you 📝", "value": 2, "tag": "transactional" }
+      ],
+      "scoreTag": "Boundary Setting"
+    },
+    {
+      "id": "friend_dry_5",
+      "question": "When {name} shares good news, their friends change the subject. What does this mean?",
+      "options": [
+        { "text": "They're jealous of {name}'s success 😒", "value": 1, "tag": "suspicious" },
+        { "text": "They didn't hear or understand the importance 🙉", "value": 2, "tag": "benefit-of-doubt" },
+        { "text": "They don't care about {name}'s life 💔", "value": 0, "tag": "pessimistic" },
+        { "text": "The friendship has different levels of emotional depth 🌊", "value": 4, "tag": "realistic" }
+      ],
+      "scoreTag": "Emotional Support"
+    },
+    {
+      "id": "friend_dry_6",
+      "question": "{name} has 500+ social media friends but feels lonely. What's the real issue?",
+      "options": [
+        { "text": "They need to post more interesting content 📱", "value": 0, "tag": "validation-seeking" },
+        { "text": "Online connections aren't the same as real friendships 🤖", "value": 4, "tag": "depth-seeking" },
+        { "text": "They should reach out and try to meet up with people 🍵", "value": 3, "tag": "initiative-taker" },
+        { "text": "Everyone feels lonely sometimes, it's normal 🤷", "value": 2, "tag": "accepting" }
+      ],
+      "scoreTag": "Connection Quality"
+    }
+  ],
+  "career": [
+    {
+      "id": "career_chill_1",
+      "question": "{name} has an important deadline but doesn't feel motivated. What's their best approach?",
+      "options": [
+        { "text": "Pull an all-nighter fueled by energy drinks ⚡", "value": 1, "tag": "last-minute" },
+        { "text": "Do the minimum required to meet basic expectations 🤏", "value": 2, "tag": "pragmatic" },
+        { "text": "Break the task into tiny steps and reward progress 🧩", "value": 4, "tag": "strategic" },
+        { "text": "Ask for an extension and hope for the best 🙏", "value": 0, "tag": "avoidant" }
+      ],
+      "scoreTag": "Work Approach"
+    },
+    {
+      "id": "career_chill_2",
+      "question": "Everyone around {name} is hustling with side projects. {name} prefers work-life balance. Is this bad?",
+      "options": [
+        { "text": "Yes, they'll never get ahead with that attitude 📉", "value": 0, "tag": "hustle-culture" },
+        { "text": "No, burnout is real and boundaries are healthy 🧘", "value": 4, "tag": "balanced" },
+        { "text": "Maybe they should try one small project for growth 🌱", "value": 3, "tag": "moderate-growth" },
+        { "text": "They should just pretend to hustle on social media 🤳", "value": 1, "tag": "image-focused" }
+      ],
+      "scoreTag": "Career Philosophy"
+    },
+    {
+      "id": "career_chill_3",
+      "question": "{name} finds a clever shortcut that produces good results with less effort. Should they:",
+      "options": [
+        { "text": "Keep it secret so they look more productive than others 🤫", "value": 1, "tag": "competitive" },
+        { "text": "Share it with colleagues to improve team efficiency 🤝", "value": 4, "tag": "collaborative" },
+        { "text": "Use the extra time for personal projects at work 👨‍💻", "value": 2, "tag": "opportunistic" },
+        { "text": "Work even harder to really impress the boss 💪", "value": 3, "tag": "overachiever" }
+      ],
+      "scoreTag": "Work Ethics"
+    },
+    {
+      "id": "career_chill_4",
+      "question": "{name} wants career growth but hates networking events. What's a good strategy?",
+      "options": [
+        { "text": "Force themselves to attend every event possible 😫", "value": 1, "tag": "forcing-fit" },
+        { "text": "Focus on online networking instead 💻", "value": 3, "tag": "adaptive" },
+        { "text": "Build deeper relationships with a few key contacts 🤝", "value": 4, "tag": "quality-focused" },
+        { "text": "Decide networking isn't for them and hope for the best 🎲", "value": 0, "tag": "avoidant" }
+      ],
+      "scoreTag": "Networking Style"
+    },
+    {
+      "id": "career_chill_5",
+      "question": "{name} does the bare minimum at work but delivers quality results. The boss is:",
+      "options": [
+        { "text": "Frustrated because effort matters more than results 😠", "value": 0, "tag": "process-oriented" },
+        { "text": "Impressed by their efficiency 👏", "value": 4, "tag": "results-oriented" },
+        { "text": "Suspicious they're cutting corners somewhere 🧐", "value": 2, "tag": "skeptical" },
+        { "text": "Concerned about their lack of ambition 📊", "value": 1, "tag": "growth-minded" }
+      ],
+      "scoreTag": "Work Efficiency"
+    },
+    {
+      "id": "career_chill_6",
+      "question": "{name} feels guilty for not being passionate about their job. Should they:",
+      "options": [
+        { "text": "Find a new job they're passionate about immediately 🚪", "value": 2, "tag": "idealistic" },
+        { "text": "Accept that work is just for money and find passion elsewhere 💰", "value": 3, "tag": "pragmatic" },
+        { "text": "Try to develop more interest by learning new aspects 🌱", "value": 4, "tag": "growth-minded" },
+        { "text": "Fake enthusiasm to fit in with coworkers 🎭", "value": 1, "tag": "conformist" }
+      ],
+      "scoreTag": "Work Purpose"
+    }
+  ],
+  "personality": [
+    {
+      "id": "personality_chaos_1",
+      "question": "People describe {name} as 'chill' but inside their mind is:",
+      "options": [
+        { "text": "Actually calm - their thoughts match their appearance 🧘", "value": 2, "tag": "authentic-calm" },
+        { "text": "Complete chaos - 50 browser tabs constantly open 🌪️", "value": 3, "tag": "internal-chaos" },
+        { "text": "Strategic calm - they process chaos before expressing 🧠", "value": 4, "tag": "processed-calm" },
+        { "text": "Numbness - they don't feel much of anything 🧊", "value": 1, "tag": "emotional-numbness" }
+      ],
+      "scoreTag": "Internal Complexity"
+    },
+    {
+      "id": "personality_chaos_2",
+      "question": "{name} acts differently around different friend groups. This means they're:",
+      "options": [
+        { "text": "Fake and don't know their true self 🎭", "value": 0, "tag": "judgmental" },
+        { "text": "Adaptable and socially intelligent 🦎", "value": 4, "tag": "adaptable" },
+        { "text": "People-pleasing to an unhealthy degree 😬", "value": 1, "tag": "people-pleaser" },
+        { "text": "Exploring different aspects of their personality 🔍", "value": 3, "tag": "multi-faceted" }
+      ],
+      "scoreTag": "Social Adaptation"
+    },
+    {
+      "id": "personality_chaos_3",
+      "question": "{name} is both extremely organized and hopelessly messy. This contradiction is:",
+      "options": [
+        { "text": "A sign they need to pick one way of being 🤔", "value": 0, "tag": "black-and-white" },
+        { "text": "Perfectly normal - humans contain multitudes 🌈", "value": 4, "tag": "nuanced" },
+        { "text": "Confusing to others and should be fixed 🔧", "value": 1, "tag": "conformist" },
+        { "text": "A sign they're organized about things they care about 🎯", "value": 3, "tag": "priority-driven" }
+      ],
+      "scoreTag": "Contradictory Traits"
+    },
+    {
+      "id": "personality_chaos_4",
+      "question": "{name} feels like a different person alone vs. with others. This means:",
+      "options": [
+        { "text": "They're hiding their true self from others 🙈", "value": 1, "tag": "self-doubt" },
+        { "text": "They have a rich inner life and social awareness 🧠", "value": 4, "tag": "self-aware" },
+        { "text": "They haven't found the right people yet 🔍", "value": 2, "tag": "seeking-tribe" },
+        { "text": "They should act more consistently in all settings 🤖", "value": 0, "tag": "rigid" }
+      ],
+      "scoreTag": "Self-Concept"
+    },
+    {
+      "id": "personality_chaos_5",
+      "question": "{name} is described as \"hard to read.\" This is because:",
+      "options": [
+        { "text": "They intentionally hide their feelings for protection 🛡️", "value": 2, "tag": "guarded" },
+        { "text": "They process emotions internally before sharing 🧠", "value": 4, "tag": "introspective" },
+        { "text": "They don't want to burden others with their emotions 🎭", "value": 1, "tag": "self-sacrificing" },
+        { "text": "They actually don't experience strong emotions 🧊", "value": 0, "tag": "emotionally-flat" }
+      ],
+      "scoreTag": "Emotional Expression"
+    },
+    {
+      "id": "personality_chaos_6",
+      "question": "When making big decisions, {name} usually:",
+      "options": [
+        { "text": "Makes pro/con lists and analyzes logically 📊", "value": 3, "tag": "analytical" },
+        { "text": "Goes with their gut feeling without explanation 🦋", "value": 2, "tag": "intuitive" },
+        { "text": "Overthinks until the decision is made for them ⏳", "value": 1, "tag": "indecisive" },
+        { "text": "Balances both logic and intuition mindfully 🧘", "value": 4, "tag": "integrated" }
+      ],
+      "scoreTag": "Decision Making"
+    }
+  ]
+}

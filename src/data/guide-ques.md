@@ -374,5 +374,50 @@ I can also convert all of these into JSON-ready templates or JSX-compatible ques
 Now go tell Copilot:
 “Look, bro, this is how you really understand human vibes” 😤
 
-You liked it na? Want more per section? Or shall we jump into JSON generation next? 💖
+You liked it na? Want more per section? Or shall we jump into JSON generation next?
+ 💖
+Topics To Learn
+→ React Router & Routing
+→ locally caching.
+→ Real time validations (for options ) 
+About meta Tags
+→ more about weersary
+→
+know more About
+بع Google Anaylites, Love web vitalsy
+→ what is canonical URIs
+How to ise descriptives anchor. Text in URLS.
+→learn About
+unit testing for utility Fn
+How to write component tests for UI Betlawor.
+to How to rest user Interactions, State Changes.
+や
++) what i's snapshots tests For UI components
+mock external dependencia.
+About meta
+→ Title tags for each Page.
+→ How to meta
+What is ARIA
+learn about traching
+what is (BRP & blow to.
+Submission limiting
+For images about
+web P, responsive ing
+lazy load off ing.
+PWA Install & It uses & Now
+offline support
+Push Notification
+what is Props Types & Default Props.
+You're a senior React developer explaining advanced topics to an intermediate learner. Please explain the following topics with:
+- Real-world examples
+- Analogies (like teaching a friend)
+- Code examples (React-based)
+- Why it's used in real apps
+- When and how to implement
 
+Topics:
+1. React Router (BrowserRouter, Routes, Link, useNavigate, nested routing)
+2. Meta Tags: Title, Description, Canonical URL, ARIA attributes
+3. Real-time form validations for input/options
+4. Descriptive Anchor Texts vs Bad Link Practices
+5. PropTypes & Default Props in React Components

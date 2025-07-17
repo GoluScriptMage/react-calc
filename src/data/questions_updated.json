@@ -1,0 +1,365 @@
+{
+  "love": [
+    {
+      "id": "love_1",
+      "question": "Shaadi.com pe profile, {name}, tu kya likhega?",
+      "englishHint": "On a marriage site profile, what would you write?",
+      "options": [
+        { "id": "a", "text": "Foreign settled, 50 LPA package 💰 (thodi jhooth chalta hai)", "points": 2 },
+        { "id": "b", "text": "Simple person, homely values, Netflix aur Maggi pasand hai 🍜", "points": 4 },
+        { "id": "c", "text": "Age, height, degree—facts only. Bio likhne ka time nahi 📋", "points": 1 },
+        { "id": "d", "text": "Mom ne profile banaya hai, mujhe kya pata 🤷‍♂️", "points": 3 }
+      ]
+    },
+    {
+      "id": "love_2",
+      "question": "Ghar pe Tinder/Bumble chalata hai to {name}, tu:",
+      "englishHint": "When using dating apps at home:",
+      "options": [
+        { "id": "a", "text": "Screen ko wall ki taraf rakhe, ninja mode 🥷", "points": 3 },
+        { "id": "b", "text": "Bathroom mein lock karke, shower on karke 🚿", "points": 2 },
+        { "id": "c", "text": "Open mein! Jo dekhna hai dekh lo, main independent hu 😎", "points": 4 },
+        { "id": "d", "text": "Mom's voice: \"Beta, yeh kaisa game khel rahe ho?\" 🙈", "points": 1 }
+      ]
+    },
+    {
+      "id": "love_3",
+      "question": "Date par bill aaya aur {name}, situation becomes:",
+      "englishHint": "When the bill comes on a date:",
+      "options": [
+        { "id": "a", "text": "Dutch (50-50), equality bro! 💯", "points": 3 },
+        { "id": "b", "text": "\"Mera wallet ghar pe reh gaya\" vibe check 😬", "points": 1 },
+        { "id": "c", "text": "Main pay karunga/karungi, next time tum karlena ✌️", "points": 4 },
+        { "id": "d", "text": "Washroom jaane ka natak, 10 min wait 🚽", "points": 2 }
+      ]
+    },
+    {
+      "id": "love_4",
+      "question": "First date ke liye {name}, kya pehnega/pehnegi?",
+      "englishHint": "What would you wear for a first date?",
+      "options": [
+        { "id": "a", "text": "Jo clean mila cupboard mein, no time for planning 🧦", "points": 2 },
+        { "id": "b", "text": "Apna \"main character\" outfit, Instagram ready 📱", "points": 3 },
+        { "id": "c", "text": "5 outfit changes, 20 selfies, full anxiety 😰", "points": 1 },
+        { "id": "d", "text": "Comfortable but presentable, effort dikhana hai 👔", "points": 4 }
+      ]
+    },
+    {
+      "id": "love_5",
+      "question": "Lockscreen pe kya hai {name}?",
+      "englishHint": "What's on your phone lockscreen?",
+      "options": [
+        { "id": "a", "text": "Ex ka photo, 2 saal se change nahi kiya 💔", "points": 1 },
+        { "id": "b", "text": "Default wallpaper, phone liya tab se 🤖", "points": 2 },
+        { "id": "c", "text": "Khud ki photo, self-love baby! 💁‍♀️", "points": 3 },
+        { "id": "d", "text": "Koi abstract ya nature pic, simple rehna hai 🌄", "points": 4 }
+      ]
+    },
+    {
+      "id": "love_6",
+      "question": "Mummy ne rishta website pe profile banaya, {name}, tera reaction:",
+      "englishHint": "Mom made your profile on a matrimonial site, your reaction:",
+      "options": [
+        { "id": "a", "text": "\"Didi ko pehle karwao, meri umar kya hai abhi!\" 👧", "points": 2 },
+        { "id": "b", "text": "Secret login details maangke profile delete 🥸", "points": 1 },
+        { "id": "c", "text": "Go with it, matches dekhne mein kya jaata hai 🤷‍♂️", "points": 3 },
+        { "id": "d", "text": "Sit with mom, preferences set karne - team effort 👪", "points": 4 }
+      ]
+    },
+    {
+      "id": "love_7",
+      "question": "Crush ke DM mein {name}, tu kya bhejega/bhejegi?",
+      "englishHint": "What would you send in your crush's DMs?",
+      "options": [
+        { "id": "a", "text": "\"Hey\" - classic, safe, boring 😐", "points": 2 },
+        { "id": "b", "text": "Meme bhejke dekhte hain reaction 🤣", "points": 4 },
+        { "id": "c", "text": "Story react karke 'fire' emoji 🔥", "points": 3 },
+        { "id": "d", "text": "Kya DM? Real life mein hi baat karte hain 🙅‍♂️", "points": 1 }
+      ]
+    },
+    {
+      "id": "love_8",
+      "question": "Date late ho gaya/gayi 30 minutes, {name}, tu:",
+      "englishHint": "Date is 30 minutes late, you:",
+      "options": [
+        { "id": "a", "text": "Menu memorize karke time pass, 32 dishes yaad 📖", "points": 3 },
+        { "id": "b", "text": "Passive-aggressive messages bhejke status check 📱", "points": 1 },
+        { "id": "c", "text": "Cancel karke ghar nikal liya, time is respect ⏰", "points": 2 },
+        { "id": "d", "text": "Chill, Instagram scroll, late ho sakta hai kabhi 🧘‍♂️", "points": 4 }
+      ]
+    }
+  ],
+  
+  "friendship": [
+    {
+      "id": "friend_1",
+      "question": "Group pe kisi ne 'plan cancel' message bheja, {name} tu:",
+      "englishHint": "Someone sent 'plan cancelled' message in the group:",
+      "options": [
+        { "id": "a", "text": "\"Thank god\" (mind mein), \"Oh no!\" (message mein) 🎭", "points": 2 },
+        { "id": "b", "text": "Already kapde change karke Netflix on 🍿", "points": 3 },
+        { "id": "c", "text": "New plan suggest, \"Ghar pe hi party karte hain!\" 🎉", "points": 4 },
+        { "id": "d", "text": "Seen karke ignore, reply ka mood nahi 👻", "points": 1 }
+      ]
+    },
+    {
+      "id": "friend_2",
+      "question": "Friend ki job lag gayi, {name} tu kya karega/karegi?",
+      "englishHint": "Friend got a job, what will you do?",
+      "options": [
+        { "id": "a", "text": "\"Party de!\" message spam group chat mein 🍻", "points": 2 },
+        { "id": "b", "text": "Genuinely happy but thoda jealous bhi 😅", "points": 3 },
+        { "id": "c", "text": "Job profile stalk karke resume update 💼", "points": 1 },
+        { "id": "d", "text": "Treats plan, genuine celebration for them 🎊", "points": 4 }
+      ]
+    },
+    {
+      "id": "friend_3",
+      "question": "Group trip pe budget discussion, {name} tu:",
+      "englishHint": "During group trip budget discussion:",
+      "options": [
+        { "id": "a", "text": "\"5-star mein reh lete hain!\" (account balance: ₹583) 💸", "points": 1 },
+        { "id": "b", "text": "Detailed excel sheet banake breakup calculate 📊", "points": 4 },
+        { "id": "c", "text": "\"Jo sab comfortable ho\" (secretly hoping for budget) 🤐", "points": 3 },
+        { "id": "d", "text": "\"Mummy ne permission nahi di\" - classic excuse 🏃‍♂️", "points": 2 }
+      ]
+    },
+    {
+      "id": "friend_4",
+      "question": "Friend ne breakup kiya, {name} tera first move:",
+      "englishHint": "Friend had a breakup, your first move:",
+      "options": [
+        { "id": "a", "text": "\"Arre chhod, mil jayegi/jayega aur koi\" standard dialogue 🙄", "points": 1 },
+        { "id": "b", "text": "\"I told you so\" lecture ready hai 📢", "points": 2 },
+        { "id": "c", "text": "Food order + favorite movie night plan 🍕", "points": 4 },
+        { "id": "d", "text": "Awkward \"kya hua?\" message bhejke wait 📱", "points": 3 }
+      ]
+    },
+    {
+      "id": "friend_5",
+      "question": "Group mein {name}, tera role kya hai?",
+      "englishHint": "In your friend group, your role is:",
+      "options": [
+        { "id": "a", "text": "The Planner - sabka time waste karne wala 📆", "points": 3 },
+        { "id": "b", "text": "The Disappearer - months tak offline, phir \"Hey guys\" 👻", "points": 1 },
+        { "id": "c", "text": "The Therapist - sabki problem solver 🧠", "points": 4 },
+        { "id": "d", "text": "The Freeloader - \"Card bhul gaya yaar\" expert 💳", "points": 2 }
+      ]
+    },
+    {
+      "id": "friend_6",
+      "question": "Friend ke ex se {name}, teri mulaqat ho gayi mall mein:",
+      "englishHint": "You bumped into your friend's ex at the mall:",
+      "options": [
+        { "id": "a", "text": "Awkward smile, pretend phone call, bhag jao 🏃‍♀️", "points": 3 },
+        { "id": "b", "text": "Ignore completely, kon hai ye aadmi? 🕶️", "points": 2 },
+        { "id": "c", "text": "Full gossip session, tea collect karo ☕", "points": 1 },
+        { "id": "d", "text": "Normal hello-hi, neither rude nor besties 👋", "points": 4 }
+      ]
+    },
+    {
+      "id": "friend_7",
+      "question": "Friend group chat inactive ho gaya, {name} tu:",
+      "englishHint": "Friend group chat became inactive, you:",
+      "options": [
+        { "id": "a", "text": "Random good morning message with 20 emojis 🌞🌈🌻", "points": 2 },
+        { "id": "b", "text": "\"Koi zinda hai?\" message after 3 months 💀", "points": 1 },
+        { "id": "c", "text": "Controversial topic drop karke chaos create 🔥", "points": 3 },
+        { "id": "d", "text": "Plan suggest karo, reunion ka time aa gaya 🥂", "points": 4 }
+      ]
+    },
+    {
+      "id": "friend_8",
+      "question": "Friend ne new business start kiya, {name} tu:",
+      "englishHint": "Friend started a new business, you:",
+      "options": [
+        { "id": "a", "text": "\"Bhai discount dega na?\" first question 🤑", "points": 2 },
+        { "id": "b", "text": "Social media pe full support, but order kabhi nahi 📱", "points": 1 },
+        { "id": "c", "text": "Genuinely first customer, feedback with suggestions 🛍️", "points": 4 },
+        { "id": "d", "text": "\"Ye MLM toh nahi?\" suspicious mode on 🕵️", "points": 3 }
+      ]
+    }
+  ],
+
+  "career": [
+    {
+      "id": "career_1",
+      "question": "LinkedIn pe {name}, tera bio kya hai?",
+      "englishHint": "On LinkedIn, your bio is:",
+      "options": [
+        { "id": "a", "text": "\"Passionate about everything\" - generic LinkedIn bio 🤖", "points": 2 },
+        { "id": "b", "text": "Achievements exaggerate karke expert ban gaya/gayi 🏆", "points": 1 },
+        { "id": "c", "text": "Actually updated with real skills and goals 📊", "points": 4 },
+        { "id": "d", "text": "\"Looking for opportunities\" - 2 saal se same status 🔍", "points": 3 }
+      ]
+    },
+    {
+      "id": "career_2",
+      "question": "Interview ke liye {name}, tu kya prepare karta/karti hai?",
+      "englishHint": "For an interview, what do you prepare?",
+      "options": [
+        { "id": "a", "text": "Full night cram session, morning panic attack 😱", "points": 2 },
+        { "id": "b", "text": "\"Strengths & Weaknesses\" ke 3 generic answers 🗒️", "points": 3 },
+        { "id": "c", "text": "Company research + practice + outfit ready 💯", "points": 4 },
+        { "id": "d", "text": "\"Jo hoga dekha jayega\" attitude, wing it 🦅", "points": 1 }
+      ]
+    },
+    {
+      "id": "career_3",
+      "question": "Salary negotiation mein, {name} tu:",
+      "englishHint": "During salary negotiation, you:",
+      "options": [
+        { "id": "a", "text": "\"Haanji, ok sir/ma'am\" to whatever they offer 🙏", "points": 1 },
+        { "id": "b", "text": "Market research karke confident ask 📈", "points": 4 },
+        { "id": "c", "text": "Expected batane mein hi nervous breakdown 😓", "points": 2 },
+        { "id": "d", "text": "Exaggerate karke, fir settle on middle ground 🎯", "points": 3 }
+      ]
+    },
+    {
+      "id": "career_4",
+      "question": "Work from home mein {name}, tu kya pehenta/pehnti hai?",
+      "englishHint": "In work from home, what do you wear?",
+      "options": [
+        { "id": "a", "text": "Formal shirt + pajama combo, camera framing expert 📹", "points": 3 },
+        { "id": "b", "text": "Full formal, professionalism is a lifestyle 👔", "points": 4 },
+        { "id": "c", "text": "Last night's t-shirt, camera off gang 🙈", "points": 1 },
+        { "id": "d", "text": "Fresh top, messy hair, \"camera not working\" status 🤐", "points": 2 }
+      ]
+    },
+    {
+      "id": "career_5",
+      "question": "Resume gap explain karne ke liye {name}, tu:",
+      "englishHint": "To explain a gap in your resume, you:",
+      "options": [
+        { "id": "a", "text": "\"Personal reasons\" - standard vague answer 🤷‍♂️", "points": 2 },
+        { "id": "b", "text": "\"Skills develop kar raha tha\" (Netflix skills) 🎬", "points": 1 },
+        { "id": "c", "text": "Honest but strategic explanation with learnings 📚", "points": 4 },
+        { "id": "d", "text": "\"Market mein jobs hi nahi thi\" blame game 🎮", "points": 3 }
+      ]
+    },
+    {
+      "id": "career_6",
+      "question": "Office ke free food/snacks ke liye {name}, tu:",
+      "englishHint": "For office free food/snacks, you:",
+      "options": [
+        { "id": "a", "text": "Tiffin box hidden in bag for takeaway 🍱", "points": 1 },
+        { "id": "b", "text": "\"Diet pe hu\" bolke bhi 5 samose kha leta/leti hu 🥟", "points": 2 },
+        { "id": "c", "text": "Reasonable portion, leave some for others 🤝", "points": 4 },
+        { "id": "d", "text": "\"Meeting hai\" bolke extra trip for snacks 🏃‍♂️", "points": 3 }
+      ]
+    },
+    {
+      "id": "career_7",
+      "question": "Meeting mein \"any questions?\" pucha toh {name}, tu:",
+      "englishHint": "When asked \"any questions?\" in a meeting, you:",
+      "options": [
+        { "id": "a", "text": "Kuch bhi puch lo, silent meeting awkward hai 🤔", "points": 2 },
+        { "id": "b", "text": "Actually prepared good question to show interest 🧠", "points": 4 },
+        { "id": "c", "text": "Mute pe \"No sir/ma'am\" bolta reh gaya/gayi 🔇", "points": 1 },
+        { "id": "d", "text": "\"Can you repeat the action items?\" - classic save 🦺", "points": 3 }
+      ]
+    },
+    {
+      "id": "career_8",
+      "question": "Appraisal discussion mein {name}, teri strategy:",
+      "englishHint": "In appraisal discussion, your strategy:",
+      "options": [
+        { "id": "a", "text": "\"Jo aap thik samjho sir/ma'am\" - no negotiation 🐑", "points": 1 },
+        { "id": "b", "text": "Achievement list with dates, receipts ready 📋", "points": 4 },
+        { "id": "c", "text": "Emotional appeal - \"market inflation, loans, etc\" 😢", "points": 2 },
+        { "id": "d", "text": "Other offers mention karke pressure create 💼", "points": 3 }
+      ]
+    }
+  ],
+
+  "personality": [
+    {
+      "id": "personality_1",
+      "question": "Subah alarm bajne pe {name}, tu:",
+      "englishHint": "When the morning alarm rings, you:",
+      "options": [
+        { "id": "a", "text": "9 alarms set, sabko dismiss karta/karti hu 😴", "points": 1 },
+        { "id": "b", "text": "First attempt mein uth jata/jati hu, morning person 🌞", "points": 4 },
+        { "id": "c", "text": "\"5 minute aur\" that becomes 50 minutes 🕔", "points": 2 },
+        { "id": "d", "text": "Alarm ko gaali deke phone dusre room mein fek diya 📱", "points": 3 }
+      ]
+    },
+    {
+      "id": "personality_2",
+      "question": "OTT subscription {name}, tera scene kya hai?",
+      "englishHint": "OTT subscription, what's your scene?",
+      "options": [
+        { "id": "a", "text": "\"Password bhej do\" gang - 0 paid subscriptions 🔑", "points": 1 },
+        { "id": "b", "text": "Main account holder, 5 log free mein use karte hain 👨‍👩‍👧‍👦", "points": 3 },
+        { "id": "c", "text": "1-2 genuine subscriptions, baaki telegram zindabad 🏴‍☠️", "points": 2 },
+        { "id": "d", "text": "Multiple paid accounts, content is worth it 💸", "points": 4 }
+      ]
+    },
+    {
+      "id": "personality_3",
+      "question": "Phone battery 20% ho gayi, {name} tu:",
+      "englishHint": "Phone battery at 20%, you:",
+      "options": [
+        { "id": "a", "text": "Full panic mode, charger dhundho emergency 😱", "points": 2 },
+        { "id": "b", "text": "Power saving on, brightness zero, survival mode 🔋", "points": 3 },
+        { "id": "c", "text": "Ignore warning, phir complain when it dies 💀", "points": 1 },
+        { "id": "d", "text": "Always power bank ready, prepared for this 🔌", "points": 4 }
+      ]
+    },
+    {
+      "id": "personality_4",
+      "question": "Unexpected guests aaye ghar pe, {name} tu:",
+      "englishHint": "Unexpected guests arrived at home, you:",
+      "options": [
+        { "id": "a", "text": "Fake smile + internal screaming combo 😬", "points": 2 },
+        { "id": "b", "text": "\"Bahar chalte hain\" suggest karke ghar save 🏠", "points": 3 },
+        { "id": "c", "text": "Hide in room, \"mujhe nahi pata koi aaya hai\" 🙈", "points": 1 },
+        { "id": "d", "text": "Genuinely welcome with whatever snacks available 🍪", "points": 4 }
+      ]
+    },
+    {
+      "id": "personality_5",
+      "question": "Digital payments fail ho gaye, {name} tu:",
+      "englishHint": "Digital payments failed, you:",
+      "options": [
+        { "id": "a", "text": "Cash? Woh kya hota hai? Empty wallet panic 💸", "points": 1 },
+        { "id": "b", "text": "Multiple UPI apps try karo one by one 📲", "points": 3 },
+        { "id": "c", "text": "Always emergency cash in wallet, old school 💰", "points": 4 },
+        { "id": "d", "text": "\"Mera dost pay karega\" - instant solution 👬", "points": 2 }
+      ]
+    },
+    {
+      "id": "personality_6",
+      "question": "Instagram story pe {name}, tu mostly:",
+      "englishHint": "On Instagram story, you mostly:",
+      "options": [
+        { "id": "a", "text": "Food pics - \"look where I'm eating!\" 🍕", "points": 2 },
+        { "id": "b", "text": "Gym/running screenshots - \"fitness is lifestyle\" 💪", "points": 3 },
+        { "id": "c", "text": "Motivational quotes repost from other pages ✨", "points": 1 },
+        { "id": "d", "text": "Minimal posting, mostly just watching others 👀", "points": 4 }
+      ]
+    },
+    {
+      "id": "personality_7",
+      "question": "Movies dekhte waqt {name}, tu:",
+      "englishHint": "While watching movies, you:",
+      "options": [
+        { "id": "a", "text": "\"Next mein kya hoga\" predict karte rehna 🔮", "points": 2 },
+        { "id": "b", "text": "Phone scroll + movie half attention combo 📱", "points": 1 },
+        { "id": "c", "text": "Full focus, \"shhh\" to anyone who talks 🤫", "points": 4 },
+        { "id": "d", "text": "IMDB pe ratings check mid-movie 🌟", "points": 3 }
+      ]
+    },
+    {
+      "id": "personality_8",
+      "question": "Zomato/Swiggy pe order karte time {name}, tu:",
+      "englishHint": "When ordering on Zomato/Swiggy, you:",
+      "options": [
+        { "id": "a", "text": "Reviews padhke overthink for 40 minutes 🧐", "points": 2 },
+        { "id": "b", "text": "Same 3 items order on repeat, comfort zone 🔄", "points": 3 },
+        { "id": "c", "text": "Coupon codes dhundne mein 30 min waste 💸", "points": 1 },
+        { "id": "d", "text": "Quick decision, know what you want 🚀", "points": 4 }
+      ]
+    }
+  ]
+}

@@ -408,6 +408,9 @@ PWA Install & It uses & Now
 offline support
 Push Notification
 what is Props Types & Default Props.
+
+
+
 You're a senior React developer explaining advanced topics to an intermediate learner. Please explain the following topics with:
 - Real-world examples
 - Analogies (like teaching a friend)
